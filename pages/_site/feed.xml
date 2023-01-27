@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello. I am Brendan Crabb</title>
+    <description>I&apos;m a medical student, machine learning engineer, and data scientist who is passionate about developing technology to improve patient care.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 27 Jan 2023 11:44:57 -0700</pubDate>
+    <lastBuildDate>Fri, 27 Jan 2023 11:44:57 -0700</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Cardiac Statistical Modeling</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Jan 2023 14:15:00 -0700</pubDate>
+        <link>http://localhost:4000/deeplearning/2023/01/23/shapemodeling.html</link>
+        <guid isPermaLink="true">http://localhost:4000/deeplearning/2023/01/23/shapemodeling.html</guid>
+        
+        <category>Python</category>
+        
+        <category>DeepLearning</category>
+        
+        <category>CardiacMRI</category>
+        
+        
+        <category>deeplearning</category>
+        
+      </item>
+    
+      <item>
+        <title>Deep Learning Subtraction Angiography</title>
+        <description>
+</description>
+        <pubDate>Sat, 23 Jan 2021 14:15:00 -0700</pubDate>
+        <link>http://localhost:4000/deeplearning/2021/01/23/dsa.html</link>
+        <guid isPermaLink="true">http://localhost:4000/deeplearning/2021/01/23/dsa.html</guid>
+        
+        <category>DeepLearning</category>
+        
+        <category>DSA</category>
+        
+        <category>Radiology</category>
+        
+        
+        <category>deeplearning</category>
+        
+      </item>
+    
+      <item>
+        <title>Prediction Unplanned Readmissions</title>
+        <description>
+</description>
+        <pubDate>Thu, 23 Jan 2020 14:15:00 -0700</pubDate>
+        <link>http://localhost:4000/deeplearning/2020/01/23/pituitary.html</link>
+        <guid isPermaLink="true">http://localhost:4000/deeplearning/2020/01/23/pituitary.html</guid>
+        
+        <category>PituitaryAdenomas</category>
+        
+        <category>MachineLearning</category>
+        
+        <category>Neurosurgery</category>
+        
+        
+        <category>deeplearning</category>
+        
+      </item>
+    
+      <item>
+        <title>SlideSeg</title>
+        <description>
+</description>
+        <pubDate>Mon, 20 Feb 2017 14:15:00 -0700</pubDate>
+        <link>http://localhost:4000/digital/pathology/2017/02/20/slideseg.html</link>
+        <guid isPermaLink="true">http://localhost:4000/digital/pathology/2017/02/20/slideseg.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Jupyter</category>
+        
+        
+        <category>digital</category>
+        
+        <category>pathology</category>
+        
+      </item>
+    
+  </channel>
+</rss>
