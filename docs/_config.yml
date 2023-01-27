@@ -16,7 +16,6 @@
 title: "Hello. I am Brendan Crabb"
 email: 'brendancrabb@gmail.com'
 description: "I'm a medical student, machine learning engineer, and data scientist who is passionate about developing technology to improve patient care."
-baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ''
 linkedin_username: 'brendancrabb'
 github_username: 'btcrabb'
