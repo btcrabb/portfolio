@@ -27,7 +27,7 @@ scholar_username: 'brendancrabb'
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
