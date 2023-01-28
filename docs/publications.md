@@ -16,7 +16,7 @@ permalink: /publications/
 </div>
 <br />
 
-### Peer-reviewed Manuscripts
+### Peer-Reviewed Manuscripts
 
 For a complete list of publications, please visit my Google Scholar profile. <br /><br />
 
