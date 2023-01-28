@@ -266,7 +266,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.0)
-  github-pages
+  github-pages (~> 227)
   jekyll-paginate-v2 (~> 2.0)
   phantom!
   rake (~> 12.3)
