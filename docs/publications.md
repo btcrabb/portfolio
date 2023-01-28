@@ -12,8 +12,8 @@ For a complete list of publications, please visit my Google Scholar profile. <br
 
 {% include publications.html link=true %} <br /><br />
 
-## Oral Presentations
-
+## Oral Presentations 
+<br /><br />
 {% include presentations.html %} <br /><br />
 
 <div class="hero-buttons">
