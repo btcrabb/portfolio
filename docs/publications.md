@@ -6,14 +6,18 @@ permalink: /publications/
 
 <br />
 
-## Select Publications
+## Peer-reviewed Manuscripts
 
 For a complete list of publications, please visit my Google Scholar profile. <br /><br />
 
 {% include publications.html link=true %} <br /><br />
 
+## Conference Proceedings
+<br />
+{% include preceedings.html %} <br /><br />
+
 ## Oral Presentations 
-<br /><br />
+<br />
 {% include presentations.html %} <br /><br />
 
 <div class="hero-buttons">
