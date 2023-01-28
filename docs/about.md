@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: About
-permalink: /portfolio/about/
+permalink: /about/
 ---
 
 <br />
