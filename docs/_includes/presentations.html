@@ -157,7 +157,7 @@
         {{ formatted_author_list | split: ";" | array_to_sentence_string }}. "{{ title_link }}." <em>{{citation.Publication}}</em> ({{citation.Year}}).
       </li>
     {% elsif style == "apa" %}  
-      <li>
+      <li style="padding-bottom: 15px">
         {{ formatted_author_list | split: ";" | array_to_sentence_string: "&"}} ({{citation.Year}}). {{ title_link }}. <em>{{citation.Publication}}</em>.
       </li>
     {% elsif style == "chicago" %}
