@@ -4,7 +4,7 @@ position: right
 title: 'Prediction Unplanned Readmissions'
 date: 2020-01-23 21:15:00
 categories: deeplearning
-tags: PituitaryAdenomas MachineLearning Neurosurgery
+tags: Python AI Neurosurgery
 featured_image: '/portfolio/img/posts/pituitary.png'
 pub_link: 'https://pubmed.ncbi.nlm.nih.gov/35384923/'
 pub_button_icon: 'book'
