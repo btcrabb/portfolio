@@ -2227,7 +2227,7 @@ body { background-color: #e9edf0; -webkit-font-smoothing: antialiased; }
 
 h1, h2, h3, h4, h5, h6 { font-weight: 700; }
 
-.img-circle { height: 250px; width: auto; border-radius: 8px; margin-right: 30px; }
+.img-circle { display: block; margin-left: auto; margin-right: auto; height: 250px; width: auto; border-radius: 8px; }
 
 .img-responsive { display: block; padding-top: 25px; max-width: 75%; margin-left: auto; margin-top: auto; margin-bottom: auto; margin-right: auto; height: auto; text-align: center; }
 
