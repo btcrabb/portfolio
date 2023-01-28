@@ -8,6 +8,6 @@ tags: Python DeepLearning CardiacMRI
 featured_image: '/portfolio/img/posts/shape_modeling.png'
 project_link: 'https://github.com/btcrabb/CAP-Automation'
 button_icon: 'github'
-button_text: 'Visit Project'
+button_text: 'Code'
 lead_text: 'A fully-automated deep learning-based approach for biventricular statistical shape modeling.'
 ---
