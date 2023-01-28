@@ -99,6 +99,6 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/portfolio', text: 'Home' }
-  - { url: '/portfolio/#portfolio', text: 'Research Portfolio' }
+  - { url: '/portfolio/#portfolio', text: 'Research' }
   - { url: '/portfolio/publications', text: 'Publications' }
   - { url: '/portfolio/about', text: 'About' }
