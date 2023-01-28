@@ -14,7 +14,7 @@ For a complete list of publications, please visit my Google Scholar profile. <br
 
 ## Conference Proceedings
 <br />
-{% include preceedings.html %} <br /><br />
+{% include preceedings.html link=true %} <br /><br />
 
 ## Oral Presentations 
 <br />
