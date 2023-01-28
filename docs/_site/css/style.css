@@ -2229,7 +2229,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: 700; }
 
 .img-circle { height: 250px; width: auto; border-radius: 8px; margin-right: 30px; }
 
-.img-responsive { display: block; max-width: 75%; margin-left: auto; margin-top: auto; margin-bottom: auto; margin-right: auto; height: auto; }
+.img-responsive { display: block; padding-top: 25px; max-width: 75%; margin-left: auto; margin-top: auto; margin-bottom: auto; margin-right: auto; height: auto; text-align: center; }
 
 article { margin: 5em 0; }
 
@@ -2309,7 +2309,6 @@ button.btn i, input.btn i { padding-right: 0.5em; }
 .content-wrap .content { margin-top: 5em; margin-left: 5em; }
 @media only screen and (max-width: 768px) { .content-wrap .content { margin-left: 0; } }
 .content-wrap .content h3.title { position: relative; margin-bottom: 1.5em; }
-.content-wrap .content h3.title:after { content: ''; position: absolute; top: 1.5em; left: 0; width: 3em; height: 3px; background-color: #ECEFF1; }
 .content-wrap .content .excerpt { width: 80%; }
 @media only screen and (max-width: 768px) { .content-wrap .content .excerpt { width: 100%; } }
 .content-wrap .content button { font-size: 16px; margin-left: 0; margin-bottom: 1em; margin-top: 1em; }
