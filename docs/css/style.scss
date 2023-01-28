@@ -123,6 +123,7 @@ button.btn, input.btn {
   @include transition(top .2s ease-in);
   &:hover {
     top: 3px;
+    color: #113f5e;
   }
 }
 
