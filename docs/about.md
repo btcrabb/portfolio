@@ -6,7 +6,7 @@ permalink: /about/
 
 <br />
 
-<img class="img-circle" src="/portfolio/img/thumbnail_crabb_portrait.png"> <br />
+<img class="img-responsive" src="/portfolio/img/thumbnail_crabb_portrait.png"> <br />
 
 ## About Me
 
