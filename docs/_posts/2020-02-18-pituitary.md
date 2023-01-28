@@ -8,9 +8,9 @@ tags: PituitaryAdenomas MachineLearning Neurosurgery
 featured_image: '/portfolio/img/posts/pituitary.png'
 pub_link: 'https://pubmed.ncbi.nlm.nih.gov/35384923/'
 pub_button_icon: 'book'
-pub_button_text: 'View PubMed'
+pub_button_text: 'PubMed'
 project_link: 'https://github.com/btcrabb/NSQIP_ML'
 button_icon: 'github'
-button_text: 'Visit Project'
+button_text: 'Code'
 lead_text: 'Predicting unplanned readmissions following pituitary adenoma resections using machine learning.'
 ---
