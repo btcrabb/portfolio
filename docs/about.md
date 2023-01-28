@@ -6,7 +6,7 @@ permalink: /about/
 
 <br />
 
-<img align="left" class="img-circle" src="/img/thumbnail_crabb_portrait.png">
+<img align="left" class="img-circle" src="https://btcrabb.github.io//img/thumbnail_crabb_portrait.png">
 
 ## About Me
 
