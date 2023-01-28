@@ -294,12 +294,12 @@ button.btn, input.btn {
       margin-bottom: 1.5em;
       &:after {
         content: '';
-        position: relative;
+        position: absolute;
         top: 1.5em;
         left: 0;
         width: 3em;
         height: 3px;
-        background-color: #137abf;
+        background-color: #ECEFF1;
       }
     }
     .excerpt {
