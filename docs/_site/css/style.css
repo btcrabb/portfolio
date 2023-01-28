@@ -2249,7 +2249,7 @@ button.btn i, input.btn i { padding-right: 0.5em; }
 .main.container { padding: 0; }
 
 .section-jump { position: relative; top: 0; color: #C8D7E1; margin: 0 auto; display: table; -webkit-transition: top 0.2s ease-in; -moz-transition: top 0.2s ease-in; -o-transition: top 0.2s ease-in; transition: top 0.2s ease-in; }
-.section-jump:hover { top: 3px; }
+.section-jump:hover { top: 3px; color: #113f5e; }
 
 /*--------------------------------------------------------------
 	2.0 Home Hero
