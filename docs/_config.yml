@@ -16,7 +16,7 @@
 title: "Hello. I am Brendan Crabb"
 email: 'brendancrabb@gmail.com'
 description: "I'm a medical student, machine learning engineer, and data scientist who is passionate about developing technology to improve patient care."
-baseurl: "/"
+baseurl: "/portfolio_website/"
 twitter_username: ''
 linkedin_username: 'brendancrabb'
 github_username: 'btcrabb'
@@ -97,6 +97,6 @@ enable_contact: false
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/portfolio_website/', text: 'Home' }
-  - { url: '/portfolio_website/publications', text: 'Publications' }
-  - { url: '/portfolio_website/about', text: 'About' }
+  - { url: '/', text: 'Home' }
+  - { url: '/publications', text: 'Publications' }
+  - { url: '/about', text: 'About' }
