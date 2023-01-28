@@ -4,7 +4,7 @@ position: right
 title: 'Cardiac Statistical Modeling'
 date: 2023-01-23 21:15:00
 categories: deeplearning
-tags: Python DeepLearning CardiacMRI
+tags: Python AI Cardiac MRI
 featured_image: '/portfolio/img/posts/shape_modeling.png'
 project_link: 'https://github.com/btcrabb/CAP-Automation'
 button_icon: 'github'
