@@ -13,10 +13,16 @@ permalink: /about/
 ## About Me
 
 Nice to meet you! I am a medical student who is currently applying to diagnostic radiology residencies in the 2023 Match. If you would like to connect, feel free to shoot me a message.<br />
-<div class="hero-buttons">
- <a data-toggle="modal" data-target="#contact"><button class="btn btn-default btn-lg">Contact Me</button></a>
- <a href="/portfolio/img/cv.pdf" target="/portfolio/img/cv.pdf"><button class="btn btn-default btn-lg">View My CV</button></a>
-</div>
+    <div class="col-md-12">
+      <div class="hero-container">
+        <div class="hero-content">
+          <div class="hero-buttons">
+           <a data-toggle="modal" data-target="#contact"><button class="btn btn-default btn-lg">Contact Me</button></a>
+           <a href="/portfolio/img/cv.pdf" target="/portfolio/img/cv.pdf"><button class="btn btn-default btn-lg">View My CV</button></a>
+          </div>
+        </div>
+      </div> 
+    </div>
 <br />
 <br />
 
