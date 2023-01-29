@@ -12,5 +12,5 @@ pub_button_text: 'PubMed'
 project_link: 'https://github.com/btcrabb/NSQIP_ML'
 button_icon: 'github'
 button_text: 'Code'
-lead_text: 'Predicting unplanned readmissions following pituitary adenoma resections using machine learning; a multi-institutional study with outside validation.'
+lead_text: 'Predicting unplanned readmissions following pituitary adenoma resections using machine learning: a multi-institutional study with outside validation.'
 ---
