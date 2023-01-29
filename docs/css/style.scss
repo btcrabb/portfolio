@@ -290,14 +290,6 @@ button.btn, input.btn {
   @include bp-small {
     margin-bottom: 2em;
   }
-  img.img-responsive {
-    @include bp-xsmall {
-      display: none;
-    }
-    @include bp-small {
-      display: none;
-    }
-  }
   .content {
     margin-top: 5em;
     margin-left: 5em;
