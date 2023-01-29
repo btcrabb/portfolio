@@ -1,5 +1,5 @@
 {% assign pub_list = site.data.posters | sort: "Year" | reverse %}
-{% assign style = include.style | downcase | default: "img" %}
+{% assign style = include.style | downcase | default: "apa" %}
 {% assign include_link = include.link %}
 
 {% if include.venue %}
@@ -156,11 +156,7 @@
       <li>
         {{ formatted_author_list | split: ";" | array_to_sentence_string }}. "{{ title_link }}." <em>{{citation.Publication}}</em> ({{citation.Year}}).
       </li>
-    {% elsif style == "apa" %}  
-      <li style="padding-bottom: 15px">
-        {{ formatted_author_list | split: ";" | array_to_sentence_string: "&"}} ({{citation.Year}}). {{ title_link }}. <em>{{citation.Publication}}</em>.
-      </li>
-    {% elsif style == "img" %}
+    {% elsif style == "apa" %}
      <li style="padding-bottom: 15px">
          <div class="li-container">
            <a href="/portfolio/img/logo.png" title="View Poster" target>
