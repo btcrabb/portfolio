@@ -162,8 +162,12 @@
       </li>
     {% elsif style == "img" %}
      <li style="padding-bottom: 15px">
-         <img class="thumbnail" src="/portfolio/img/logo.png">
-         {{ formatted_author_list | split: ";" | array_to_sentence_string: "&"}} ({{citation.Year}}). {{ title_link }}. <em>{{citation.Publication}}</em>.
+         <div class="li-container">
+           <img class="thumbnail" src="/portfolio/img/logo.png">
+           <span>
+               {{ formatted_author_list | split: ";" | array_to_sentence_string: "&"}} ({{citation.Year}}). {{ title_link }}. <em>{{citation.Publication}}</em>.
+           </span>
+        </div>
       </li>
     {% elsif style == "chicago" %}
       <li>
