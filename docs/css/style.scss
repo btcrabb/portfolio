@@ -58,7 +58,8 @@ ol {
     margin-right: 15px;    
     object-fit: contain;
     @include bp-xsmall {
-        display: none;
+      height: 50px;
+      width: 50px;
     }
     &:hover {
 	    background-color: white;
