@@ -53,13 +53,20 @@ ol {
 }
 
 .thumbnail {
-    height: 100%;
-    width: auto;
+    height: 75px;
+    width: 75px;
     margin-right: 15px;    
     object-fit: contain;
     @include bp-xsmall {
         display: none;
     }
+    &:hover {
+	    background-color: white;
+	    border: solid 1px #b0c5d2;
+	    -moz-box-shadow: 0 1px 0 #b0c5d2;
+	    -webkit-box-shadow: 0 1px 0 #b0c5d2;
+	    box-shadow: 0 1px 0 #b0c5d2;
+  }
 }
 
 .img-circle {
