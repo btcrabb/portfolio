@@ -44,8 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .li-container {
-    display: flex;
-    align-items: center;
+    display: inline-block;
 }
 .thumbnail {
     height: 100%;
