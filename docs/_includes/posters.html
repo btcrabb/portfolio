@@ -161,12 +161,12 @@
         {{ formatted_author_list | split: ";" | array_to_sentence_string: "&"}} ({{citation.Year}}). {{ title_link }}. <em>{{citation.Publication}}</em>.
       </li>
     {% elsif style == "img" %}
-     <li style="padding: 10px">
+     <li style="padding-bottom: 15px">
          <div class="li-container">
            <a href="/portfolio/img/logo.png" target>
             <img class="thumbnail" src="/portfolio/img/logo.png">
            </a>
-           <span>
+           <span style"padding-left: 15 px">
                {{ formatted_author_list | split: ";" | array_to_sentence_string: "&"}} ({{citation.Year}}). {{ title_link }}. <em>{{citation.Publication}}</em>.
            </span>
         </div>
