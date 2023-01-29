@@ -47,6 +47,11 @@ h1, h2, h3, h4, h5, h6 {
     display: flex;
     align-items: flex-start;
 }
+
+ol {
+  list-style-position: inside;
+}
+
 .thumbnail {
     height: 100%;
     width: auto;
