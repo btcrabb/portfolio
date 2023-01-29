@@ -2242,7 +2242,7 @@ a:hover { color: #FF5B33; text-decoration: none; }
 
 img { width: 100%; }
 
-button.btn, input.btn { padding: 12px 35px; margin: 2em 0.5em; border: solid 1px #d5e0e7; border-radius: 4px; color: #2E4453; font-weight: 600; }
+button.btn, input.btn { padding: 8px 25px; width: 30% 60%; margin: 2em 0.5em; border: solid 1px #d5e0e7; border-radius: 4px; color: #2E4453; font-weight: 600; }
 button.btn:hover, button.btn.btn-default:hover, input.btn:hover, input.btn.btn-default:hover { background-color: white; border: solid 1px #b0c5d2; -moz-box-shadow: 0 1px 0 #b0c5d2; -webkit-box-shadow: 0 1px 0 #b0c5d2; box-shadow: 0 1px 0 #b0c5d2; }
 button.btn i, input.btn i { padding-right: 0.5em; }
 @media only screen and (max-width: 768px) { button.btn, input.btn { margin: 0 auto; display: table; margin-bottom: 0.5em; } }
@@ -2306,14 +2306,12 @@ button.btn i, input.btn i { padding-right: 0.5em; }
 .content-wrap { margin-bottom: 8em; }
 @media only screen and (max-width: 768px) { .content-wrap { margin-bottom: 2em; } }
 @media only screen and (min-width: 770px) and (max-width: 990px) { .content-wrap { margin-bottom: 2em; } }
-@media only screen and (max-width: 768px) { .content-wrap img.img-responsive { display: none; } }
-@media only screen and (min-width: 770px) and (max-width: 990px) { .content-wrap img.img-responsive { display: none; } }
 .content-wrap .content { margin-top: 5em; margin-left: 5em; }
-@media only screen and (max-width: 768px) { .content-wrap .content { margin-left: 0; } }
+@media only screen and (max-width: 768px) { .content-wrap .content { margin-left: 2em; } }
 .content-wrap .content h3.title { position: relative; margin-bottom: 1.5em; }
-.content-wrap .content .excerpt { width: 80%; }
+.content-wrap .content .excerpt { width: 100%; }
 @media only screen and (max-width: 768px) { .content-wrap .content .excerpt { width: 100%; } }
-.content-wrap .content button { font-size: 16px; margin-left: 0; margin-bottom: 1em; margin-top: 1em; }
+.content-wrap .content button { font-size: 16px; width: 40%; display: inline-block; margin-left: 0; margin-bottom: 1em; margin-top: 1em; }
 .content-wrap .content .tags, .content-wrap .content .categories { margin: 2em 0; }
 .content-wrap .content .tags span, .content-wrap .content .categories span { color: #9eb1bd; background-color: #ECEFF1; padding: 0.5em 1.5em; display: inline-block; margin-bottom: 0.5em; }
 .content-wrap .content .categories span { color: #b9b1ad; background-color: #EFEBE9; }
