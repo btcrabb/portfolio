@@ -4,7 +4,7 @@ position: right
 title: 'Cardiac Statistical Modeling'
 date: 2023-01-23 21:15:00
 categories: deeplearning
-award: James B. Bassingthwaighte Best Poster Award - 2021 International Cardiac Physiome Workshop 2021
+award: James B. Bassingthwaighte Best Poster Award - 2021 International Cardiac Physiome Workshop
 tags: Python AI Cardiac MRI
 featured_image: '/portfolio/img/posts/shape_modeling.png'
 project_link: 'https://github.com/btcrabb/CAP-Automation'
