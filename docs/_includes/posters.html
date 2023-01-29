@@ -1,5 +1,5 @@
-{% assign pub_list = site.data.presentations | sort: "Year" | reverse %}
-{% assign style = include.style | downcase | default: "apa" %}
+{% assign pub_list = site.data.posters | sort: "Year" | reverse %}
+{% assign style = include.style | downcase | default: "img" %}
 {% assign include_link = include.link %}
 
 {% if include.venue %}
