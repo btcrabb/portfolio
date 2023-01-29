@@ -43,22 +43,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
-.li-img {
-  display: table-cell;
-  vertical-align: middle;
-  width: 30%;
-  padding-right: 1em;
+.li-container {
+    display: flex;
+    align-items: center;
 }
-
-.li-img img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
 .thumbnail {
     height: 100%;
-    width: auto; /* or specific width in px */
+    width: auto;
 }
 
 .img-circle {
