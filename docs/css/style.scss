@@ -308,13 +308,14 @@ button.btn, input.btn {
       margin-bottom: 1.5em;
     }
     .excerpt {
-      width: 80%;
+      width: 100%;
       @include bp-xsmall {
         width: 100%;
       }
     }
     button{
       font-size: 16px;
+      width: 150px;
       margin-left: 0;
       margin-bottom: 1em;
       margin-top: 1em;
