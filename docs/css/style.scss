@@ -294,7 +294,7 @@ button.btn, input.btn {
     margin-top: 5em;
     margin-left: 5em;
     @include bp-xsmall {
-      margin-left: 0;
+      margin-left: 2em;
     }
     h3.title {
       position: relative;
