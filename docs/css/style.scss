@@ -44,12 +44,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .li-container {
-    display: inline-block;
+    display: flex;
+    align-items: flex-start;
 }
 .thumbnail {
     height: 100%;
     width: auto;
-    padding-right: 0 10px;    
+    padding-right: 10px;    
     object-fit: contain;
     @include bp-xsmall {
         display: none;
