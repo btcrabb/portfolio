@@ -3,10 +3,6 @@
 
   <p class="excerpt">{{ post.lead_text }}</p>
   
-  {% if post.award != empty %}
-  <p class="excerpt"><span class="fa fa-trophy fa-lg" aria-hidden=true></span>  {{ post.award }}</p>
-  {% endif %}
-  
   {% if post.pub_link != empty %}
   <a href="{{ post.pub_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.pub_button_icon}} fa-lg"></i>{{post.pub_button_text}}</button></a>
   {% endif %}
