@@ -25,7 +25,7 @@
 {% assign counter = 0 %}
 
 
-<ol>
+<ol style="list-style: none;">
 {% for citation in pub_list %}
   {% if include.venue %}
     {% assign publication = citation.Publication | downcase %}
