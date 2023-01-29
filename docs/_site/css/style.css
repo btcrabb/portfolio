@@ -2227,9 +2227,11 @@ body { background-color: #e9edf0; -webkit-font-smoothing: antialiased; }
 
 h1, h2, h3, h4, h5, h6 { font-weight: 700; }
 
-.li-container { display: inline-block; }
+.li-container { display: flex; align-items: flex-start; }
 
-.thumbnail { height: 100%; width: auto; padding-right: 0 10px; object-fit: contain; }
+ol { list-style-position: outside; }
+
+.thumbnail { height: 100%; width: auto; margin-right: 15px; object-fit: contain; }
 @media only screen and (max-width: 768px) { .thumbnail { display: none; } }
 
 .img-circle { display: block; margin-left: auto; margin-right: auto; height: 350px; width: auto; border-radius: 8px; }
