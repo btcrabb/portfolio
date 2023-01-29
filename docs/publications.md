@@ -31,3 +31,8 @@ For a complete list of publications, please visit my Google Scholar profile. <br
 {% include presentations.html %} <br /><br />
 
 
+### Poster Presentations 
+<br />
+{% include posters.html %} <br /><br />
+
+
