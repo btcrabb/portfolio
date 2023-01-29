@@ -16,6 +16,9 @@ Nice to meet you! I am a medical student who is currently applying to diagnostic
 {% include contact.html %}
 {% include contact-modal.html %}
 
+Want to know more about my experience? Take a look at my CV (current, January, 2023) <br />
+<a href="/portfolio/img/cv.pdf" target="/portfolio/img/cv.pdf">Download CV</a>
+
 <br />
 <br />
 
