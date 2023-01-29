@@ -12,13 +12,13 @@ permalink: /about/
 
 ## About Me
 
-Nice to meet you! I am a medical student who is currently applying to diagnostic radiology residencies in the 2023 Match. If you would like to connect, feel free to shoot me a message.{% include contact.html %}
-  {% include contact-modal.html %}
+Nice to meet you! I am a medical student who is currently applying to diagnostic radiology residencies in the 2023 Match. If you would like to connect, feel free to shoot me a message.
+ <a data-toggle="modal" data-target="#contact"><button class="btn btn-default btn-lg">Contact me</button></a>
   
 <br /><br />
 
 Want to know more about my experience? Take a look at my CV (current, January, 2023) <br />
-<a href="/portfolio/img/cv.pdf" target="/portfolio/img/cv.pdf"><button class="btn btn-default btn-lg">View My CV</button></a>
+<a href="/portfolio/img/cv.pdf" target="/portfolio/img/cv.pdf"><button class="btn btn-default btn-lg">View my CV</button></a>
 <br />
 <br />
 
