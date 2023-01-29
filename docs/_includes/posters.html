@@ -163,7 +163,9 @@
     {% elsif style == "img" %}
      <li style="padding: 10px">
          <div class="li-container">
-           <img class="thumbnail" src="/portfolio/img/logo.png">
+           <a href="/portfolio/img/logo.png" target>
+            <img class="thumbnail" src="/portfolio/img/logo.png">
+           </a>
            <span>
                {{ formatted_author_list | split: ";" | array_to_sentence_string: "&"}} ({{citation.Year}}). {{ title_link }}. <em>{{citation.Publication}}</em>.
            </span>
