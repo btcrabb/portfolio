@@ -2227,9 +2227,10 @@ body { background-color: #e9edf0; -webkit-font-smoothing: antialiased; }
 
 h1, h2, h3, h4, h5, h6 { font-weight: 700; }
 
-.li-img { display: table-cell; vertical-align: middle; width: 30%; padding-right: 1em; }
+.li-container { display: inline-block; }
 
-.li-img img { display: block; width: 100%; height: auto; }
+.thumbnail { height: 100%; width: auto; padding-right: 0 10px; object-fit: contain; }
+@media only screen and (max-width: 768px) { .thumbnail { display: none; } }
 
 .img-circle { display: block; margin-left: auto; margin-right: auto; height: 350px; width: auto; border-radius: 8px; }
 
