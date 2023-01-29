@@ -53,8 +53,8 @@ ol {
 }
 
 .thumbnail {
-    height: 100%;
-    width: auto;
+    height: 75px;
+    width: 75px;
     margin-right: 15px;    
     object-fit: contain;
     @include bp-xsmall {
