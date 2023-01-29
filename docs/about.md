@@ -6,17 +6,24 @@ permalink: /about/
 
 <br />
 
-<img class="img-responsive-full" src="/portfolio/img/thumbnail_crabb_portrait.png"> <br />
+<img class="img-responsive-full" src="/portfolio/img/thumbnail_crabb_portrait.png"><br />
+
 <br />
 <br />
 
 ## About Me
 
 Nice to meet you! I am a medical student who is currently applying to diagnostic radiology residencies in the 2023 Match. If you would like to connect, feel free to shoot me a message.<br />
-    <div class="btn-group">
-           <a data-toggle="modal" data-target="#contact"><button class="btn btn-default btn-lg">Contact Me</button></a>
-           <a href="/portfolio/img/cv.pdf" target="/portfolio/img/cv.pdf"><button class="btn btn-default btn-lg">View My CV</button></a>
-    </div>
+
+<div class="btn-group">
+       <a data-toggle="modal" data-target="#contact">
+           <button class="btn btn-default btn-lg">Contact Me</button>
+        </a>
+       <a href="/portfolio/img/cv.pdf" target="/portfolio/img/cv.pdf">
+           <button class="btn btn-default btn-lg">View My CV</button>
+        </a>
+</div>
+
 <br />
 <br />
 
