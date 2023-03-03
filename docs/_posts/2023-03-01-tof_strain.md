@@ -9,5 +9,5 @@ featured_image: '/portfolio/img/posts/tof.png'
 pub_link: 'https://pubmed.ncbi.nlm.nih.gov/36478531/'
 pub_button_icon: 'book'
 pub_button_text: 'NASCI Abstract'
-lead_text: 'Deep learning analysis and unsupervised clustering of left ventricular mechanics in tetralogy of Fallot '
+lead_text: 'Deep learning analysis and unsupervised clustering of left ventricular mechanics in tetralogy of Fallot.'
 ---
