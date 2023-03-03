@@ -163,7 +163,17 @@
             <img class="thumbnail" src="{{ citation.Image }}">
            </a>
            <span style="padding-left: 25 px">
-               {{ formatted_author_list | split: ";" | array_to_sentence_string: "&"}} ({{citation.Year}}). {{ title_link }}. <em>{{citation.Publication}}</em>.
+               <span style="padding-bottom: 15px">
+                {% assign authors = formatted_author_list | split: ";" %}
+                {% for author in authors %}
+                    {% if author contains "Crabb" %}
+                        <strong>{{ author }}</strong>
+                    {% else %}
+                        {{ author }}
+                    {% endif %}
+                    {% unless forloop.last %}; {% endunless %}
+                {% endfor %} ({{citation.Year}}). {{ title_link }}. <em>{{citation.Publication}}</em>.
+              </span>
            </span>
         </div>
       </li>
