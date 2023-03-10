@@ -36,11 +36,14 @@ body {
   background-color: #e9edf0;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
+  color: #2E4453;
 }
 
 h1, h2, h3, h4, h5, h6 {
   @extend %merriweather;
   font-weight: 700;
+  color: #2E4453;
+
 }
 
 .li-container {
@@ -116,7 +119,7 @@ p {
 a {
   @include transition(color .2s ease-in-out);
   &:hover {
-    color: #FF5B33;
+    color: #2E4453;
     text-decoration: none;
   }
 }
@@ -127,14 +130,15 @@ img {
 
 button.btn, input.btn {
   padding: 8px 25px;
-  width: 30% 60%;
   margin: 2em 0.5em;
   border: solid 1px #d5e0e7;
-  border-radius: 4px;
+  border-radius: 6px;
   color: #2E4453;
   font-weight: 600;
+  min-width: auto;
   &:hover, &.btn-default:hover {
     background-color: white;
+    color: #2E4453;
     border: solid 1px #b0c5d2;
     -moz-box-shadow: 0 1px 0 #b0c5d2;
     -webkit-box-shadow: 0 1px 0 #b0c5d2;
@@ -146,6 +150,8 @@ button.btn, input.btn {
   @include bp-xsmall {
     @include horizontal-align;
     margin-bottom: 0.5em;
+    padding: 0.5em 1.5em;
+    min-width: auto;
   }
 }
 
@@ -276,7 +282,7 @@ button.btn, input.btn {
   .break {
     margin: 8em 0;
     @include bp-xsmall {
-      margin: 2em 0;
+      margin: 1em 0;
     }
   }
 }
@@ -332,7 +338,7 @@ button.btn, input.btn {
     margin-top: 5em;
     margin-left: 5em;
     @include bp-xsmall {
-      margin-left: 2em;
+      margin-left: 1em;
     }
     h3.title {
       position: relative;
@@ -346,7 +352,6 @@ button.btn, input.btn {
     }
     button{
       font-size: 16px;
-      width: 40%;
       display: inline-block;
       margin-left: 0;
       margin-bottom: 1em;
