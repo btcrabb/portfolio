@@ -282,7 +282,7 @@ button.btn, input.btn {
   .break {
     margin: 8em 0;
     @include bp-xsmall {
-      margin: 2em 0;
+      margin: 1em 0;
     }
   }
 }
@@ -328,7 +328,7 @@ button.btn, input.btn {
     margin-top: 5em;
     margin-left: 5em;
     @include bp-xsmall {
-      margin-left: 2em;
+      margin-left: 1em;
     }
     h3.title {
       position: relative;
@@ -342,7 +342,6 @@ button.btn, input.btn {
     }
     button{
       font-size: 16px;
-      width: 40%;
       display: inline-block;
       margin-left: 0;
       margin-bottom: 1em;
