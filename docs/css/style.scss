@@ -151,7 +151,7 @@ button.btn, input.btn {
   @include bp-xsmall {
     @include horizontal-align;
     margin-bottom: 0.5em;
-    padding: 2px 8px
+    padding: 2px 8px;
     min-width: auto;
   }
 }
