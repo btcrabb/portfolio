@@ -13,5 +13,8 @@ button_text: 'Code'
 pub_link: 'https://pubmed.ncbi.nlm.nih.gov/36849960/'
 pub_button_icon: 'book'
 pub_button_text: 'PubMed'
+presentation_link: ''
+pres_button_icon: ''
+pres_button_text: ''
 lead_text: 'A fully-automated deep learning-based approach for biventricular statistical shape modeling in tetralogy of Fallot.'
 ---
