@@ -11,7 +11,7 @@ project_link: 'https://github.com/btcrabb/CAP-Automation'
 button_icon: 'github'
 button_text: 'Code'
 pub_link: 'https://pubmed.ncbi.nlm.nih.gov/36849960/'
-pub_button_icon: 'book'
+pub_button_icon: 'trophy'
 pub_button_text: 'PubMed'
 lead_text: 'A fully-automated deep learning-based approach for biventricular statistical shape modeling in tetralogy of Fallot.'
 ---
