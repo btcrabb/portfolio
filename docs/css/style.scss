@@ -83,6 +83,9 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 8px;  
 }
 
+.image-container {
+  position: relative; /* set container element as a reference for absolute positioned elements */
+}
 
 .img-responsive {
   display: block;
@@ -93,7 +96,21 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: auto;
   margin-right: auto;
   height: auto;
-  text-align: center}
+  text-align: center;
+}
+
+.img-responsive:hover, .btn-default:hover .img-responsive {
+  /* add semi-transparent overlay */
+  &::before {
+    content: ""; /* empty content */
+    position: absolute; /* position the overlay relative to the container element */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(46, 68, 83, 0.2); /* set a dark background color with 20% opacity */
+  }
+}
 
 .img-responsive_full {
   display: block;
@@ -104,7 +121,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: auto;
   margin-right: auto;
   height: auto;
-  text-align: center}
+  text-align: center; 
+}
 
 
 article {
@@ -318,23 +336,6 @@ button.btn, input.btn {
   }
 }
 
-.content-selectable {
-  position: relative; /* set container element as a reference for absolute positioned elements */
-  
-  &:hover, &.btn-default:hover {
-    
-    /* add semi-transparent overlay */
-    &::before {
-      content: ""; /* empty content */
-      position: absolute; /* position the overlay relative to the container element */
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(46, 68, 83, 0.2); /* set a dark background color with 50% opacity */
-    }
-  }
-}
 
 .content-wrap {
   margin-bottom: 8em;
