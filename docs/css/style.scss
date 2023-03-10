@@ -130,7 +130,6 @@ img {
 
 button.btn, input.btn {
   padding: 8px 25px;
-  width: 30% 60%;
   margin: 2em 0.5em;
   border: solid 1px #d5e0e7;
   border-radius: 4px;
@@ -151,7 +150,7 @@ button.btn, input.btn {
   @include bp-xsmall {
     @include horizontal-align;
     margin-bottom: 0.5em;
-    padding: 0.5em 1em;
+    padding: 0.4em 1em;
     min-width: auto;
   }
 }
