@@ -276,8 +276,10 @@ button.btn, input.btn {
 --------------------------------------------------------------*/
 #portfolio .container {
   margin-top: 10em;
+  margin-bottom: 10em;
   @include bp-xsmall {
     margin-top: 2em;
+    margin-bottom: 2em;
   }
   .break {
     margin: 8em 0;
