@@ -15,14 +15,15 @@ permalink: /about/
 
 Nice to meet you! I am a clinician-scientist with a background in machine learning, computer vision, computational analysis, and numerical methods. I am currently completing my medical internship and will be starting a research-track residency in diagnostic radiology at the University of California San Diego in 2024. If you would like to get in touch for any reason, please reach out!<br />
 
-<div class="d-flex justify-content-center">
-	<a data-toggle="modal" data-target="#contact">
-	   <button class="btn btn-default btn-lg">Contact Me</button>
-	</a>
-	<a href="/portfolio/img/cv.pdf" target="/portfolio/img/cv.pdf">
-	   <button class="btn btn-default btn-lg">View My CV</button>
-	</a>
+<div class="btn-group">
+       <a data-toggle="modal" data-target="#contact">
+           <button class="btn btn-default btn-lg">Contact Me</button>
+        </a>
+       <a href="/portfolio/img/cv.pdf" target="/portfolio/img/cv.pdf">
+           <button class="btn btn-default btn-lg">View My CV</button>
+        </a>
 </div>
+
 <br />
 <br />
 
