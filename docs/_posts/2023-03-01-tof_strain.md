@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Deep Learning Synthetic Strain'
-date: 2023-03-1 21:15:00
+date: 2021-03-1 21:15:00
 categories: deeplearning
 tags: Python AI Cardiac MRI
 featured_image: '/portfolio/img/posts/tof.png'

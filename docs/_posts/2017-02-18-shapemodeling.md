@@ -7,7 +7,7 @@ categories: deeplearning
 award: James B. Bassingthwaighte Best Poster Award - 2021 International Cardiac Physiome Workshop
 tags: Python AI Cardiac MRI
 featured_image: '/portfolio/img/posts/shape_modeling.png'
-project_link: 'https://github.com/btcrabb/CAP-Automation'
+project_link: 'https://github.com/btcrabb/CAP-Automated-Pipeline'
 button_icon: 'github'
 button_text: 'Code'
 pub_link: 'https://pubmed.ncbi.nlm.nih.gov/36849960/'
