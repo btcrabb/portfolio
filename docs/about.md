@@ -13,7 +13,7 @@ permalink: /about/
 
 ## About Me
 
-Nice to meet you! I am a medical student who is currently applying to diagnostic radiology residencies in the 2023 Match. If you would like to connect, feel free to shoot me a message.<br />
+Nice to meet you! I am a clinician-scientist with a background in machine learning, computer vision, computational analysis, and numerical methods. I am currently completing my medical internship and will be starting a research-track residency in diagnostic radiology at the University of California San Diego in 2024. If you would like to get in touch for any reason, please reach out!<br />
 
 <div class="btn-group">
        <a data-toggle="modal" data-target="#contact">
@@ -32,7 +32,7 @@ Nice to meet you! I am a medical student who is currently applying to diagnostic
 ### Education
 **Doctor of Medicine**
 <span style="float:right; font-style: italic">
-    Expected May, 2023 
+    August, 2018 - May, 2023 
 </span><br />
 <span style="text-align: left;"> 
 Spencer Fox Eccles School of Medicine at the University of Utah <br />
