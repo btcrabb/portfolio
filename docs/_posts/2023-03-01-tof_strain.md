@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Deep Learning Synthetic Strain'
 date: 2021-03-1 21:15:00
 categories: deeplearning

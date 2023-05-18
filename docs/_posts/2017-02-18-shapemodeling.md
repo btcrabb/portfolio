@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Cardiac Statistical Modeling'
 date: 2023-01-23 21:15:00
 categories: deeplearning
