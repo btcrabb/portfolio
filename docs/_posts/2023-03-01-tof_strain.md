@@ -7,7 +7,7 @@ categories: deeplearning
 tags: Python AI Cardiac MRI
 featured_image: '/portfolio/img/posts/tof.jpg'
 project_link: ''
-pub_link: 'https://pubmed.ncbi.nlm.nih.gov/36478531/'
+pub_link: 'https://link-springer-com.ezproxy.lib.utah.edu/article/10.1007/s10554-022-02768-9'
 pub_button_icon: 'trophy'
 pub_button_text: 'NASCI'
 presentation_link: ''
