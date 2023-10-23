@@ -9,7 +9,7 @@ permalink: /publications/
 
   <p style="text-align: center;">
     {% if site.scholar_username != '' %}
-      <a href="https://scholar.google.com/citations?user=XR_SNYAAAAAJ&hl=en"><button class="btn btn-default btn-lg"><i class="fa fa-google fa-lg"></i>Google Scholar</button></a>
+      <a href="https://scholar.google.com/citations?user=XR_SNYAAAAAJ&hl=en" target="_blank"><button class="btn btn-default btn-lg"><i class="fa fa-google fa-lg"></i>Google Scholar</button></a>
     {% endif %}
   </p>
 

@@ -19,7 +19,7 @@ Nice to meet you! I am a clinician-scientist with a background in machine learni
        <a data-toggle="modal" data-target="#contact">
            <button class="btn btn-default btn-lg">Contact Me</button>
         </a>
-       <a href="/portfolio/img/cv.pdf" target="/portfolio/img/cv.pdf">
+       <a href="/portfolio/img/cv.pdf" target="_blank">
            <button class="btn btn-default btn-lg">View My CV</button>
         </a>
 </div>
