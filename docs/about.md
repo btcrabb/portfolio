@@ -30,6 +30,15 @@ Nice to meet you! I am a clinician-scientist with a background in machine learni
 <hr /> 
 
 ### Education
+**Internship, Internal Medicine**
+<span style="float:right; font-style: italic">
+    June, 2023 - Present 
+</span><br />
+<span style="text-align: left;"> 
+National Jewish Health | Saint Joseph Hospital <br />
+Denver, Colorado
+</span><br><br>
+
 **Doctor of Medicine**
 <span style="float:right; font-style: italic">
     August, 2018 - May, 2023 
