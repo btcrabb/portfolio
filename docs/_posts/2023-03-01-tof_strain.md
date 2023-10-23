@@ -5,7 +5,7 @@ title: 'Deep Learning Synthetic Strain'
 date: 2021-03-1 21:15:00
 categories: deeplearning
 tags: Python AI Cardiac MRI
-featured_image: '/portfolio/img/posts/tof.png'
+featured_image: '/portfolio/img/posts/tof.jpg'
 project_link: ''
 pub_link: 'https://pubmed.ncbi.nlm.nih.gov/36478531/'
 pub_button_icon: 'trophy'

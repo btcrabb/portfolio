@@ -5,7 +5,7 @@ title: 'Readmission Risk Stratification'
 date: 2020-01-23 21:15:00
 categories: deeplearning
 tags: Python AI Neurosurgery
-featured_image: '/portfolio/img/posts/pituitary.png'
+featured_image: '/portfolio/img/posts/pituitary.jpg'
 pub_link: 'https://pubmed.ncbi.nlm.nih.gov/35384923/'
 pub_button_icon: 'book'
 pub_button_text: 'PubMed'
