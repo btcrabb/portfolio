@@ -13,7 +13,7 @@ permalink: /about/
 
 ## About Me
 
-Nice to meet you! I am a physician-scientist with a background in machine learning, computer vision, and computational analysis. I am currently completing a residency in diagnostic radiology at the University of California San Diego. If you would like to get in touch for any reason, please reach out!<br />
+Nice to meet you! I am a clinician-scientist with a background in machine learning, computer vision, and computational analysis. I am currently completing a residency in diagnostic radiology at the University of California San Diego. If you would like to get in touch for any reason, please reach out!<br />
 
 <div class="btn-group">
        <a data-toggle="modal" data-target="#contact">
