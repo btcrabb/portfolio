@@ -41,7 +41,7 @@ La Jolla, California
 
 **Internship, Internal Medicine**
 <span style="float:right; font-style: italic">
-    June, 2023 - Present 
+    June, 2023 - June, 2024 
 </span><br />
 <span style="text-align: left;"> 
 National Jewish Health | Saint Joseph Hospital <br />
