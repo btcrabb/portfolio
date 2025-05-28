@@ -13,7 +13,7 @@ permalink: /about/
 
 ## About Me
 
-Nice to meet you! I am a clinician-scientist with a background in machine learning, computer vision, computational analysis, and numerical methods. I am currently completing my medical internship and will be starting a research-track residency in diagnostic radiology at the University of California San Diego in 2024. If you would like to get in touch for any reason, please reach out!<br />
+Nice to meet you! I am a physician-scientist with a background in machine learning, computer vision, and computational analysis. I am currently completing a residency in diagnostic radiology at the University of California San Diego. If you would like to get in touch for any reason, please reach out!<br />
 
 <div class="btn-group">
        <a data-toggle="modal" data-target="#contact">
@@ -30,6 +30,15 @@ Nice to meet you! I am a clinician-scientist with a background in machine learni
 <hr /> 
 
 ### Education
+**Residency, Diagnostic Radiology**
+<span style="float:right; font-style: italic">
+    July, 2024 - Present 
+</span><br />
+<span style="text-align: left;"> 
+UC San Diego Health <br />
+La Jolla, California
+</span><br><br>
+
 **Internship, Internal Medicine**
 <span style="float:right; font-style: italic">
     June, 2023 - Present 
